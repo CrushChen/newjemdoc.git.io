@@ -1,0 +1,25 @@
+# jemdoc: addcss{./css/jemdoc.css}  
+# jemdoc: menu{MENU}{index.html}
+= FullStack Security Lab
+[https://eng-cs.syr.edu/ College of Engineering & Computer Science] at [https://www.syracuse.edu/ Syracuse University]
+
+~~~
+{}{img_left}{./image/fssl-logo-may-2020.png}{FSSL}{320px}{300px}
+~~~
+
+Welcome to FullStack Security Lab! 
+
+== About
+{{<span class=first>F</span><span class=second>S</span><span class=third>S</span><span class=forth>L</span> (<span class=first>F</span>ull<span class=second>S</span>tack <span class=third>S</span>ecurity <span class=forth>L</span>ab)}} at Syracuse University focuses on cybersecurity research on emerging web services and off-the-shelf hardware products. Our research takes the approach of security measurement and analysis towards better understand the (in)security of the targeted emerging computer systems.
+
+== News and Event 
+{{<iframe src="https://eng-cs.syr.edu/news-events/news/" width="80%" height="600" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false"tabindex="0"></iframe>}}
+
+
+
+== Location 
+
+{{<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d5832.358586653569!2d-76.132629!3d43.037659!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x32bb25bce0acb399!2sDepartment%20of%20Electrical%20Engineering%20and%20Computer%20Science!5e0!3m2!1sen!2sus!4v1590172906266!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>}}
+
+== Sponsor 
+{{<p><a href="https://www.intel.com/content/www/us/en/research/overview.html/"> <img border="0" height="100" src="./image/Intel.png"> </a><a href="https://www.nsf.gov/"> <img border="0" height="100" src="./image/NSF.jpg"> </a><a href="http://www.wpafb.af.mil/AFRL/"> <img border="0" height="100" src="./image/AFRL.png"> </a></p>}}}

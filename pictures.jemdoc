@@ -1,0 +1,24 @@
+# jemdoc: addcss{./css/jemdoc.css} 
+# jemdoc: menu{MENU}{pictures.html}
+= Pictures 
+
+== Group picture (May, 2018)
+
+~~~
+{}{img_left}{./image/group_2018.05-small.jpg}{Group picture (Dec, 2018)}{638.3px}{400px}
+~~~
+
+== Group picture (Dec, 2018)
+
+~~~
+{}{img_left}{./image/DEC-2018.jpg}{Group picture (Dec, 2018)}{533.33px}{400px}
+~~~
+
+== Summer Research picture (Jul, 2019)
+
+~~~
+{}{img_left}{./image/JUL-2019.jpg}{Summer Research picture (Jul, 2019)}{600px}{400px}
+~~~
+
+
+
